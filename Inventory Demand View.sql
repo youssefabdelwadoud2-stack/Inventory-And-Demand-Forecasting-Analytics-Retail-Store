@@ -1,0 +1,20 @@
+
+Create View Inventory_Demand As 
+
+SELECT [Date]
+      ,[Store_ID]
+      ,[Product_ID]
+      ,[Category]
+      ,[Region]
+      ,[Inventory_Level]
+      ,[Units_Sold]
+      ,[Units_Ordered]
+      ,[Price]
+      ,[Discount]
+      ,[Weather_Condition]
+      ,[Promotion]
+      ,[Competitor_Pricing]
+      ,[Seasonality]
+      ,[Epidemic]
+      ,[Demand]
+  FROM [Inventory ].[dbo].[sales_data]
