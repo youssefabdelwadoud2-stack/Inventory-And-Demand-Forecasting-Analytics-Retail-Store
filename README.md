@@ -1,6 +1,6 @@
 # Retail-Store-Inventory-and-Demand-Forecasting-Analytics
 Retail Stores Inventory Management and Demand Forecasting. 
-A Full Business Analytics Project Using Power BI.
+A Full Business Analytics Project Using SQL Server Connected With Power BI.
 
 This Project Focused On The Relationship With: (Sales Performance, Expected Demand, Inventory Management, Restocking, And Inventory Risk) Into One Framework That Supports Decisions.
 
