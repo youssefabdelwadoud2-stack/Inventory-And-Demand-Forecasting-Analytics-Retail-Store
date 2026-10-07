@@ -6,6 +6,8 @@ This Project Focused On The Relationship With: (Sales Performance, Expected Dema
 
 
 
+ Interactive Dashboard
+[View Interactive Excel Dashboard](https://youssefabdelwadoud2-stack.github.io/Data-Analytics-Portfolio-/projects/retail-inventory.html)
 
 
 
