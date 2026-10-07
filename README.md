@@ -202,6 +202,8 @@ Every stage up to this point is built into the current project: the stages after
 
 
 
+-
+
 
 The project designed around these pages.
 
@@ -226,9 +228,13 @@ Page Two:- Demand analysis
 - Compares recorded expected demand against actual sales at the product.
 - Page supports deeper investigation: three toggle views (Price, Product, Inventory)
       Let a user switch the same page between 
-         Inventory by Product comparison
-         Sales vs Demand comparison 
-         Price vs Competitor Price comparison
+
+ Inventory by Product comparison
+ 
+ Sales vs Demand comparison 
+ 
+ Price vs Competitor Price comparison
+
 - While store level storage and supply and Revenue correlation charts stay visible the whole time for context. 
 - Filters for (Promotion, Category, Region, Seasonality, Year, Quarter, Month, and Day Name) let the user zoom into any specific segment.
 
