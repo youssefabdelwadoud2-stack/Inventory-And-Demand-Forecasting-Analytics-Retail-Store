@@ -73,29 +73,29 @@ Retail inventory management sits between two costly mistakes.
   - Having (Understock) compared to expected demand risks missed sales and poor product availability.
   - Having (Overstock)  if inventory stays much higher than what's needed for expected demand.
        Money can stay tied up in products that aren't selling fast enough
-Both problems come from the same root cause demand isn't constant and it doesn't behave the same way for every Store Product combination.
+- Both problems come from the same root cause demand isn't constant and it doesn't behave the same way for every Store Product combination.
 
 The Inventory Risk
-At any moment some products are getting close to running out while others are sitting with more stock than they're actually expected to sell.
-Without a clear way to flag this both problems usually only get noticed after they've already cost the business money through a lost sale or a markdown.
+- At any moment some products are getting close to running out while others are sitting with more stock than they're actually expected to sell.
+- Without a clear way to flag this both problems usually only get noticed after they've already cost the business money through a lost sale or a markdown.
 
 The Demand Problem
-The dataset has a recorded expected demand number for every (Store, Product, Date) 
-Combination along with things that likely affect it: (seasonality, promotions, pricing, discounts, competitor prices, and weather)
-Demand also varies in (how predictable it is?) not just how big it is 
-Some products stay close to their expected demand consistently, while others swing a lot and that variability is itself a useful planning signal.
+- The dataset has a recorded expected demand number for every (Store, Product, Date) 
+- Combination along with things that likely affect it: (seasonality, promotions, pricing, discounts, competitor prices, and weather)
+- Demand also varies in (how predictable it is?) not just how big it is 
+- Some products stay close to their expected demand consistently, while others swing a lot and that variability is itself a useful planning signal.
 
 The Management Challenge
-A monthly or weekly sales report tells a manager what already happened.
-It doesn't tell them which of the twenty products across five stores needs a replenishment conversation this week.
-That takes combining current inventory expected demand and variability into one prioritized view and being honest about which parts of that view are solid and which are estimated.
+- A monthly or weekly sales report tells a manager what already happened.
+- It doesn't tell them which of the twenty products across five stores needs a replenishment conversation this week.
+- That takes combining current inventory expected demand and variability into one prioritized view and being honest about which parts of that view are solid and which are estimated.
 
 
 So the project was built around these goals:-
 
 - This project focused on the relationship with: (Sales, Demand, Inventory, Restocking, Risk, Action)
 - The real challenge isn't (How much inventory do we have?) But
-  Is the inventory we have right for the demand we expect and where should restocking attention go first?
+- Is the inventory we have right for the demand we expect and where should restocking attention go first?
 - Where is inventory risk concentrated why does it matter
 - Which Store or Product combinations should be reviewed first?
 
@@ -187,32 +187,32 @@ Power BI:
 Analytical Methodology
 
 The analysis followed a logical order:
-   Business framing 
-   Data preparation and modeling 
-   Building KPIs 
-   Descriptive and sales analysis 
-   Demand analysis and Sales-vs-Demand comparison 
-   Inventory coverage and replenishment analysis 
-   Rule based risk labeling. 
+- Business framing
+- Data preparation and modeling 
+- Building KPIs 
+- Descriptive and sales analysis 
+- Demand analysis and Sales-vs-Demand comparison 
+- Inventory coverage and replenishment analysis 
+- Rule based risk labeling. 
 
 Every stage up to this point is built into the current project: the stages after this  using
-   Demand variability to fine tune
-   Safety stock
-   Statistical forecasting and scenario analysis
+- Demand variability to fine tune
+- Safety stock
+- Statistical forecasting and scenario analysis
 
 
 
 
 The project designed around these pages.
 
- Page One:- Sales analysis covers performance by product, category, store, region, and time.
-    - Page opens with five KPI cards (Total Unit Sold, Net Revenue, Total Discount, Fill Rate, Yearly Turnover).
-    - Seasonality revenue breakdown.
-    - Monthly revenue and units trend.
-    - Regional and category comparisons.
-    - ("best of the last two years") highlights for month, day, store, and product
+Page One:- Sales analysis covers performance by product, category, store, region, and time.
+- Page opens with five KPI cards (Total Unit Sold, Net Revenue, Total Discount, Fill Rate, Yearly Turnover).
+- Seasonality revenue breakdown.
+- Monthly revenue and units trend.
+- Regional and category comparisons.
+- ("best of the last two years") highlights for month, day, store, and product
         giving a reader the full picture of performance in seconds.
-    - Filters for (Promotion, Category, Region, Seasonality, Year, Quarter, Month, and Day Name)
+- Filters for (Promotion, Category, Region, Seasonality, Year, Quarter, Month, and Day Name)
         let the user zoom into any specific segment.
 
 
@@ -222,15 +222,15 @@ The project designed around these pages.
 
 -
 -
- Page Two:- Demand analysis
-    - Compares recorded expected demand against actual sales at the product.
-    - Page supports deeper investigation: three toggle views (Price, Product, Inventory)
+Page Two:- Demand analysis
+- Compares recorded expected demand against actual sales at the product.
+- Page supports deeper investigation: three toggle views (Price, Product, Inventory)
       Let a user switch the same page between 
          Inventory by Product comparison
          Sales vs Demand comparison 
          Price vs Competitor Price comparison
-    - While store level storage and supply and Revenue correlation charts stay visible the whole time for context. 
-    - Filters for (Promotion, Category, Region, Seasonality, Year, Quarter, Month, and Day Name) let the user zoom into any specific segment.
+- While store level storage and supply and Revenue correlation charts stay visible the whole time for context. 
+- Filters for (Promotion, Category, Region, Seasonality, Year, Quarter, Month, and Day Name) let the user zoom into any specific segment.
 
 
 
