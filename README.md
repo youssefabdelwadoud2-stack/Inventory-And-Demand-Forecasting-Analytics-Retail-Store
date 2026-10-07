@@ -357,13 +357,16 @@ The gap is a signal to look into not a direct measure of Lost Sales.
 
 Strategic Recommendations 
       
-  1- Inventory Management: Focus on High Risk Inventory First
-     Risk or Opportunity: A specific group of Product combinations is below the calculated Reorder Point 
+1- Inventory Management: Focus on High Risk Inventory First
+
+- Risk or Opportunity: A specific group of Product combinations is below the calculated Reorder Point 
        Showed in (Performance table Stock Risk) column
-     Recommendation:      Review High Risk combinations first
+- Recommendation:      Review High Risk combinations first
                           Especially products like (P0008 and P0018) where restocking activity is also negative.
-     Expected benefit:    If demand continues without proper restocking the business becomes more exposed to running out of stock.
-     Priority:            High
+- Expected benefit:    If demand continues without proper restocking the business becomes more exposed to running out of stock.
+- Priority:            High
+
+-
 
 
   2- Demand Planning: Look Into the Biggest Demand Gaps 
