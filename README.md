@@ -203,7 +203,8 @@ Every stage up to this point is built into the current project: the stages after
 
 
 
-The project designed around these pages
+The project designed around these pages.
+
  Page One:- Sales analysis covers performance by product, category, store, region, and time.
     - Page opens with five KPI cards (Total Unit Sold, Net Revenue, Total Discount, Fill Rate, Yearly Turnover)
     - Seasonality revenue breakdown
