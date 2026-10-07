@@ -369,36 +369,47 @@ Strategic Recommendations
 -
 
 
-  2- Demand Planning: Look Into the Biggest Demand Gaps 
-     Risk or Opportunity: Demand Variability is different across products with an overall figure of roughly 11.75%.
+2- Demand Planning: Look Into the Biggest Demand Gaps 
+
+- Risk or Opportunity: Demand Variability is different across products with an overall figure of roughly 11.75%.
        Showed in Demand Variability measure on the Performance page
-     Recommendation:      Look into the biggest gaps by combining: Current Inventory, Coverage, Price, Competitor Price, Promotion
+- Recommendation:      Look into the biggest gaps by combining: Current Inventory, Coverage, Price, Competitor Price, Promotion
                           , Seasonality, Store before deciding on a specific cause.
-     Expected benefit:    Products with more variability are harder to plan for reliably using just one fixed safety-stock rule.
-     Priority:            High
+- Expected benefit:    Products with more variability are harder to plan for reliably using just one fixed safety-stock rule.
+- Priority:            High
 
-  3- Store Management
-     Risk or Opportunity: Stores show different patterns in revenue, volume, storage and supply.
+-
+
+3- Store Management
+
+- Risk or Opportunity: Stores show different patterns in revenue, volume, storage and supply.
        Showed in Storage and Supply by Store ID and Net Revenue vs Units Sold correlation charts      
-     Recommendation:      Review replenishment settings store by store
+- Recommendation:      Review replenishment settings store by store
                              starting with the stores that show the biggest inventory to order imbalance.
-     Expected benefit:    One replenishment policy for all five stores risks over supplying some stores and under supplying others.
-     Priority:            Medium
+- Expected benefit:    One replenishment policy for all five stores risks over supplying some stores and under supplying others.
+- Priority:            Medium
 
-  4- Pricing Commercial: Treat the Competitor Price Analysis as a Commercial Check Not a Final Answer
-     Risk or Opportunity: Several products show lower net revenue than the modeled competitor price scenario.
+-
+
+4- Pricing Commercial: Treat the Competitor Price Analysis as a Commercial Check Not a Final Answer
+
+- Risk or Opportunity: Several products show lower net revenue than the modeled competitor price scenario.
        Showed in The Price Comparison view flags products like (P0001 - P0007).
-     Recommendation:      Run a proper commercial check before changing any prices.
-     Expected benefit:    These products might be pricing opportunities but the scenario alone doesn't prove price sensitivity or extra profit.
-     Priority:            Medium
-      
-  5-Forecasting
-    Risk or Opportunity: The project currently uses the dataset's recorded expected demand field as its demand planning input
+- Recommendation:      Run a proper commercial check before changing any prices.
+- Expected benefit:    These products might be pricing opportunities but the scenario alone doesn't prove price sensitivity or extra profit.
+- Priority:            Medium
+
+-
+5-Forecasting
+
+- Risk or Opportunity: The project currently uses the dataset's recorded expected demand field as its demand planning input
        no statistical forecasting model (moving average, exponential smoothing, ARIMA, or machine learning) has been built.
-    Recommendation:      See "Next Analytical Layer" below this is the single most valuable improvement to the existing decision chain.
-    Expected benefit:    Current demand numbers should be treated as a planning input not a tested forecast when shared internally.
-    Priority:            High
+- Recommendation:      See "Next Analytical Layer" below this is the single most valuable improvement to the existing decision chain.
+- Expected benefit:    Current demand numbers should be treated as a planning input not a tested forecast when shared internally.
+- Priority:            High
  
+-
+
 
 Strategic Recommendations:- 
 
