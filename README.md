@@ -206,14 +206,16 @@ Every stage up to this point is built into the current project: the stages after
 The project designed around these pages.
 
  Page One:- Sales analysis covers performance by product, category, store, region, and time.
-    - Page opens with five KPI cards (Total Unit Sold, Net Revenue, Total Discount, Fill Rate, Yearly Turnover)
-    - Seasonality revenue breakdown
-    - Monthly revenue and units trend
-    - Regional and category comparisons
+    - Page opens with five KPI cards (Total Unit Sold, Net Revenue, Total Discount, Fill Rate, Yearly Turnover).
+    - Seasonality revenue breakdown.
+    - Monthly revenue and units trend.
+    - Regional and category comparisons.
     - ("best of the last two years") highlights for month, day, store, and product
         giving a reader the full picture of performance in seconds.
     - Filters for (Promotion, Category, Region, Seasonality, Year, Quarter, Month, and Day Name)
         let the user zoom into any specific segment.
+
+
   
                                                       Overview page 
 <img width="1920" height="1143" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/6f1d89b3-4ae8-4721-b11e-86694dd6a2e7" />
