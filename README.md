@@ -286,76 +286,65 @@ Page Two:- Demand analysis
 
 
 Results
-  
 Overall Commercial Performance
 
-Across the period studied the dashboard shows roughly:
-
-6.50M Units Sold, 375M Net Revenue, 63M Total Discount, 11K Yearly Turnover
+Across the period studied the dashboard shows roughly: 6.50M Units Sold, 375M Net Revenue, 63M Total Discount, 11K Yearly Turnover
 
 The Executive Overview also shows that revenue isn't spread evenly across regions and categories.
 
  
 1-The North region and the Groceries category have the strongest revenue.
+
 - Region
-
-North:       about 168M  Net Revenue
-
-East:        about 139M  Net Revenue
-
+- North:       about 168M  Net Revenue
+- East:        about 139M  Net Revenue
 - Category 
+- Groceries:   about 134M  Net Revenue
+- Furniture:   about 99M   Net Revenue
+- That mean: Revenue performance isn't spread evenly across the retail network.
+- Inventory, promotions, and management attention don't need to be spread the same way across every region and category.
+- Decision:- Use regional and category performance as one input when deciding which inventory reviews and commercial checks come first.
 
-Groceries:   about 134M  Net Revenue
+-                 
 
-Furniture:   about 99M   Net Revenue
-
-That mean: Revenue performance isn't spread evenly across the retail network.
-
-Inventory, promotions, and management attention don't need to be spread the same way across every region and category.
-
-Decision:- Use regional and category performance as one input when deciding which inventory reviews and commercial checks come first.
-
-                 
 2-There is a recurring gap between recorded expected demand and actual sales.
 
-The Product Comparison view shows expected demand generally staying equal to or above actual sales for a large part of the product range.
-
-That mean: The number gap is real but the dataset doesn't tell us why it's happening.
-
-Possible reasons include:
-
+- The Product Comparison view shows expected demand generally staying equal to or above actual sales for a large part of the product range.
+- That mean: The number gap is real but the dataset doesn't tell us why it's happening.
+- Possible reasons include:
 inventory shortages, sales coming in lower than expected, an overly optimistic demand estimate, pricing effects, competitor pressure, promotion effects 
-
 The gap is a signal to look into not a direct measure of Lost Sales.
-
-Decision:- Focus on the biggest gaps to a manual review to figure out whether the cause is limited inventory
+- Decision:- Focus on the biggest gaps to a manual review to figure out whether the cause is limited inventory
              instead of assuming right away that they're stockouts.
 
-         
+-
+
 3- A specific group of products is flagged High Risk on the operational table
 
-Two products in particular, P0008 and P0018, show negative Order to Storage numbers in the operational data shown.
+- Two products in particular, P0008 and P0018, show negative Order to Storage numbers in the operational data shown.
+- The operational Performance table shows roughly: 35K Current Inventory, 30K Safety Stock, 41K Reorder Point, 16K Order-to-Storage, 24K Recommended Order 
+- Some Store and Product combinations are below their calculated Reorder Point while restocking hasn't kept up with sales.
+- That mean:- These combinations are the clearest candidates for a near-term inventory review.
+- Decision:- Focus on High Risk products first especially the ones showing negative restocking activity.
 
-The operational Performance table shows roughly: 35K Current Inventory, 30K Safety Stock, 41K Reorder Point, 16K Order-to-Storage, 24K Recommended Order 
+-   
 
-Some Store and Product combinations are below their calculated Reorder Point while restocking hasn't kept up with sales.
+4- Store performance isn't the same across the network. Store S003 stands out as the strongest store in the analysis
 
-That mean:- These combinations are the clearest candidates for a near-term inventory review.
+- With roughly: 82M Net Revenue, 1.325M Units Sold
+- The store-level analysis also shows different inventory and restocking patterns between stores.
+- That mean:- One single restocking policy might not work equally well for every store.
+- Decision:- Check restocking and inventory settings at the Store and Product. instead of only relying on network-wide averages.
 
-Decision:- Focus on High Risk products first especially the ones showing negative restocking activity.
-     
-  4- Store performance isn't the same across the network. Store S003 stands out as the strongest store in the analysis
-     With roughly: 82M Net Revenue, 1.325M Units Sold
-     The store-level analysis also shows different inventory and restocking patterns between stores.
-     That mean:- One single restocking policy might not work equally well for every store.
-     Decision:- Check restocking and inventory settings at the Store and Product. instead of only relying on network-wide averages.
-   
-  5- Several products show net revenue lower than a competitor price scenario
-     The Price Chart Comparison shows products like P0001–P0007 with Net Revenue sitting below Revenue by Competitor Price
-     Some products bring in less revenue with their current pricing than the modeled competitor price scenario suggests.
-     That mean:- This is a scenario based on the same actual sales volume  it's not real competitor revenue.
-     This points to products that might be worth reviewing for pricing.
-     Decision:- Send these products for a pricing check instead of treating this result as a direct pricing recommendation.
+-   
+
+5- Several products show net revenue lower than a competitor price scenario
+
+- The Price Chart Comparison shows products like P0001–P0007 with Net Revenue sitting below Revenue by Competitor Price
+- Some products bring in less revenue with their current pricing than the modeled competitor price scenario suggests.
+- That mean:- This is a scenario based on the same actual sales volume  it's not real competitor revenue.
+- This points to products that might be worth reviewing for pricing.
+- Decision:- Send these products for a pricing check instead of treating this result as a direct pricing recommendation.
      
 -
 -
