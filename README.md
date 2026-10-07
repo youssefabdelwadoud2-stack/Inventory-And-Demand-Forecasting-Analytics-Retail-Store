@@ -5,32 +5,6 @@ A Full Business Analytics Project Using SQL Server Connected With Power BI.
 This Project Focused On The Relationship With: (Sales Performance, Expected Demand, Inventory Management, Restocking, And Inventory Risk) Into One Framework That Supports Decisions.
 
 
-                                                      Overview page 
-<img width="1920" height="1143" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/6f1d89b3-4ae8-4721-b11e-86694dd6a2e7" />
-
-                                                 Product Inventory Demand page 2
-<img width="1920" height="1143" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/40e7a519-c0cb-4952-b3c1-ce830c913d80" />
-
-                                                 Product Sales Demand page 2
-<img width="1920" height="1146" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/13e9cc94-ef9d-49eb-a723-68307de6ad56" />
-
-                                                 Product Compatator Price page 2
-<img width="1920" height="1140" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/0355bb5c-88d1-40c9-a615-79f4d23e6ef3" />
-
-                                                 Performance (Normal) page 2
-<img width="1920" height="1143" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/b809735d-c0c5-4e4c-835b-7e25035c3a07" />
-
-                                                 Performance (Risk) page 2
-<img width="1920" height="1140" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/2375cc1d-b552-497b-962d-cf5303fcfcc7" />
-
-                                                 Calendar Date 
-<img width="1920" height="1136" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/2cbe560b-3227-4ea3-a311-c93987eec19f" />
-
-                                                    View Created 
-                                                    
-<img width="1920" height="1035" alt="View Created " src="https://github.com/user-attachments/assets/6d9344c5-a0e4-4b71-bd55-2c5b800204f3" />
-
-
 
 
 
@@ -80,7 +54,11 @@ Next Steps
    2- High risk Store and Product combinations should be reviewed first especially when inventory is below the Reorder Point.
    3- Reorder Point and Safety Stock should become part of a repeatable replenishment policy based on demand, lead time, historical sales 
 
-
+-
+-
+-
+-
+-
 
 Business Problem
 
@@ -129,13 +107,22 @@ Key Business Questions is:-
  - How much inventory should be reordered?
  - Which products are at risk of stockout and how reduce it while keeping inventory efficient?
 
+-
+-
+-
+-
+-
+
 
 
 Methodology And Skills
 
 
 Skills:- 
+SQL: Data Cleaning, Views, Data Modeling.  
 Power BI: Power Pivot, Data Transformation, Data Modeling, Data Clinging, Dax, Calculated Columns, Data Visualizations
+
+
 
 Power BI:
   - ETL Processes, Data Clinging
@@ -159,10 +146,24 @@ Power BI:
       treating daily inventory balances like they're transactions that can be added together.
 
 
-- Data Preparation And Modeling everything was built entirely in Power BI using:-
-  - (Power BI Desktop, Power Query, DAX)
+- Data Preparation And Modeling everything was built SQL Server Connected With Power BI:-
+  - (SQL Server, Views, Power BI Desktop, Power Query, DAX).
+  - I built analytical view in SQL Server and create live connection with Power BI.
+                                                    View Created 
+                                                    
+<img width="1920" height="1035" alt="View Created " src="https://github.com/user-attachments/assets/6d9344c5-a0e4-4b71-bd55-2c5b800204f3" />
+
+
+-
+-
   - I built a separate Calendar table and connected it to the main retail table through the Date field.
   - The Calendar table supports: (Year, Quarter, Month, Month Name, Day, Day Name, Week, Week Number)
+
+                                                   Calendar Date 
+ <img width="1920" height="1136" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/2cbe560b-3227-4ea3-a311-c93987eec19f" />
+-
+-
+
   - This structure allowed for consistent time based analysis and filtering in the report.
 
 
@@ -194,6 +195,7 @@ Every stage up to this point is built into the current project: the stages after
 
 
 
+
 The project designed around these pages
  Page One:- Sales analysis covers performance by product, category, store, region, and time.
     - Page opens with five KPI cards (Total Unit Sold, Net Revenue, Total Discount, Fill Rate, Yearly Turnover)
@@ -204,7 +206,12 @@ The project designed around these pages
         giving a reader the full picture of performance in seconds.
     - Filters for (Promotion, Category, Region, Seasonality, Year, Quarter, Month, and Day Name)
         let the user zoom into any specific segment.
-       
+  
+                                                      Overview page 
+<img width="1920" height="1143" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/6f1d89b3-4ae8-4721-b11e-86694dd6a2e7" />
+
+-
+-
  Page Two:- Demand analysis
     - Compares recorded expected demand against actual sales at the product.
     - Page supports deeper investigation: three toggle views (Price, Product, Inventory)
@@ -214,6 +221,21 @@ The project designed around these pages
          Price vs Competitor Price comparison
     - While store level storage and supply and Revenue correlation charts stay visible the whole time for context. 
     - Filters for (Promotion, Category, Region, Seasonality, Year, Quarter, Month, and Day Name) let the user zoom into any specific segment.
+
+
+
+                                                 Product Inventory Demand page 2
+<img width="1920" height="1143" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/40e7a519-c0cb-4952-b3c1-ce830c913d80" />
+
+                                                 Product Sales Demand page 2
+<img width="1920" height="1146" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/13e9cc94-ef9d-49eb-a723-68307de6ad56" />
+
+                                                 Product Compatator Price page 2
+<img width="1920" height="1140" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/0355bb5c-88d1-40c9-a615-79f4d23e6ef3" />
+
+-
+-
+
        
  Page There: Inventory analysis
     - Brings together current inventory, safety stock, reorder point, and coverage into the operational Performance table.
@@ -223,6 +245,25 @@ The project designed around these pages
        (Inventory Now, Safety Stock, Reorder Point, DIO, Order to Storage, Recommended Order, EOQ, Turnover, and Stock Risk ) 
     - Filterable by Store and Region.
     - This is the page meant for someone to open sort by risk and take action.
+
+
+
+
+                                                 Performance (Normal) page 2
+<img width="1920" height="1143" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/b809735d-c0c5-4e4c-835b-7e25035c3a07" />
+
+                                                 Performance (Risk) page 2
+<img width="1920" height="1140" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/2375cc1d-b552-497b-962d-cf5303fcfcc7" />
+
+
+
+
+
+-
+-
+-
+-
+-
 
 
 
@@ -275,7 +316,14 @@ The Executive Overview also shows that revenue isn't spread evenly across region
      That mean:- This is a scenario based on the same actual sales volume  it's not real competitor revenue.
      This points to products that might be worth reviewing for pricing.
      Decision:- Send these products for a pricing check instead of treating this result as a direct pricing recommendation.
-    
+     
+-
+-
+-
+-
+-
+
+  
     
 
 Strategic Recommendations 
@@ -327,6 +375,12 @@ Strategic Recommendations:-
  - Comparing pricing against a competitor price scenario at the product level.
  - Tracking revenue and volume trends across region, category, season, and store.
  - Highlighting replenishment activity that isn't keeping up with sales.
+
+-
+-
+-
+-
+-
 
 
 Next Steps
