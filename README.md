@@ -13,6 +13,8 @@ This Project Focused On The Relationship With: (Sales Performance, Expected Dema
 
 <img width="1200" height="800" alt="retail-inventory png" src="https://github.com/user-attachments/assets/909b5f01-7d97-4c75-bc66-8a4475e3f402" />
 
+-
+-
 
 Executive Summary
 
