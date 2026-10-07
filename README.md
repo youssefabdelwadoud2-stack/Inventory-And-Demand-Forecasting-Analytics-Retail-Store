@@ -4,12 +4,26 @@ A Full Business Analytics Project Using SQL Server Connected With Power BI.
 
 This Project Focused On The Relationship With: (Sales Performance, Expected Demand, Inventory Management, Restocking, And Inventory Risk) Into One Framework That Supports Decisions.
 
+
+                                                      Overview page 
 <img width="1920" height="1143" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/6f1d89b3-4ae8-4721-b11e-86694dd6a2e7" />
+
+                                                 Product Inventory Demand page 2
 <img width="1920" height="1143" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/40e7a519-c0cb-4952-b3c1-ce830c913d80" />
+
+                                                 Product Sales Demand page 2
 <img width="1920" height="1146" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/13e9cc94-ef9d-49eb-a723-68307de6ad56" />
+
+                                                 Product Compatator Price page 2
 <img width="1920" height="1140" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/0355bb5c-88d1-40c9-a615-79f4d23e6ef3" />
+
+                                                 Performance (Normal) page 2
 <img width="1920" height="1143" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/b809735d-c0c5-4e4c-835b-7e25035c3a07" />
+
+                                                 Performance (Risk) page 2
 <img width="1920" height="1140" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/2375cc1d-b552-497b-962d-cf5303fcfcc7" />
+
+                                                 Calendar Date 
 <img width="1920" height="1136" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/2cbe560b-3227-4ea3-a311-c93987eec19f" />
 
 
