@@ -19,11 +19,14 @@ This Project Focused On The Relationship With: (Sales Performance, Expected Dema
 Executive Summary
 
 Managing retail inventory means balancing two opposite risks: 
-  Not having enough stock:-  which can limit what's available to sell
-  having too much stock:-    which can tie up money and increase storage cost.
+
+Not having enough stock:-  which can limit what's available to sell
+
+having too much stock:-    which can tie up money and increase storage cost.
 
 This project built a Power BI decision support solution for a retail network of (5 stores, 20 products, 5 categories)
 Date records covering two years of daily data
+
 The goal wasn't just to report past sales but to connect (sales performance, expected demand, inventory levels, restocking activity, and inventory risk) into one framework that supports decisions.
 
 
@@ -38,12 +41,21 @@ So the real challenge is: Is the inventory we have right for the demand we expec
 
 
 The project has there connected dashboards:
-  Page One:- Sales analysis       - Covers performance by product, category, store, region, and time.
-                                  - let the user zoom into any specific segment.
-  Page Two: Demand analysis       - Compares recorded expected demand, storage and comparator price against actual number at the product
-                                  - To Review our forecasting and market research pricing 
-  Page There: Inventory analysis  - Brings current inventory, safety stock, reorder point, and coverage together into the operational Performance table.
-                                  - This is the page meant for someone to open sort by risk and take action.
+
+Page One:- Sales analysis
+
+- Covers performance by product, category, store, region, and time.
+- let the user zoom into any specific segment.
+
+Page Two: Demand analysis 
+
+- Compares recorded expected demand, storage and comparator price against actual number at the product
+- To Review our forecasting and market research pricing 
+
+Page There: Inventory analysis
+
+- Brings current inventory, safety stock, reorder point, and coverage together into the operational Performance table.
+- This is the page meant for someone to open sort by risk and take action.
 
 The analysis shows:-
  - 7M+ units sold,  $375M+ net revenue
