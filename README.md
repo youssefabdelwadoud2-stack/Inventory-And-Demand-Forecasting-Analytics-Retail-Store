@@ -21,7 +21,7 @@ Executive Summary
 Managing retail inventory means balancing two opposite risks: 
 
 - Not having enough stock:-  which can limit what's available to sell
-- having too much stock:-    which can tie up money and increase storage cost.
+- Having too much stock:-    which can tie up money and increase storage cost.
 
 This project built a Power BI decision support solution for a retail network of (5 stores, 20 products, 5 categories)
 Date records covering two years of daily data
