@@ -26,6 +26,12 @@ This Project Focused On The Relationship With: (Sales Performance, Expected Dema
                                                  Calendar Date 
 <img width="1920" height="1136" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/2cbe560b-3227-4ea3-a311-c93987eec19f" />
 
+                                                    View Created 
+                                                    
+<img width="1920" height="1035" alt="View Created " src="https://github.com/user-attachments/assets/6d9344c5-a0e4-4b71-bd55-2c5b800204f3" />
+
+
+
 
 
 
