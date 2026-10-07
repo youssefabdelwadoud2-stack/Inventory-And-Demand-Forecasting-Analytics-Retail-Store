@@ -56,6 +56,8 @@ Page There: Inventory analysis
 - Brings current inventory, safety stock, reorder point, and coverage together into the operational Performance table.
 - This is the page meant for someone to open sort by risk and take action.
 
+-
+
 The analysis shows:-
  - 7M+ units sold,  $375M+ net revenue
  - 85% fill rate, 11K inventory turnover, 11.75% demand variability 
@@ -64,6 +66,7 @@ The analysis shows:-
  - August and Wednesday was the best-performing month and day.
  - Several products were also identified as High Stock Risk
 
+-
 
   
 Next Steps
