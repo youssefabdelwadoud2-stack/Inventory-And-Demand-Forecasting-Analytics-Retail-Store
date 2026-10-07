@@ -38,6 +38,7 @@ So the real challenge is: Is the inventory we have right for the demand we expec
  - Where is inventory getting tight and where is there too much?
  - Which Store or Product combinations need attention first?
 
+-
 
 The project has there connected dashboards:
 
