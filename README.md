@@ -173,7 +173,8 @@ Power BI:
   - I built analytical view in SQL Server and create live connection with Power BI.
     
                                                     View Created
-<img width="1920" height="1035" alt="View Created " src="https://github.com/user-attachments/assets/6d9344c5-a0e4-4b71-bd55-2c5b800204f3" />
+
+<img width="1272" height="792" alt="View Created " src="https://github.com/user-attachments/assets/49f47511-0c38-4b03-a377-a1196412fb9e" />
 
 
 -
