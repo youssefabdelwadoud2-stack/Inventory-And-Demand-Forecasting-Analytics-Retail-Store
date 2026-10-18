@@ -1,3 +1,6 @@
+<img width="1200" height="800" alt="retail-inventory png" src="https://github.com/user-attachments/assets/51560be7-fab3-4e8a-bf39-ffb34aafd3c8" />
+
+                                                          
                                                           Overview page 
 
 <img width="1654" height="926" alt="1-  Overview" src="https://github.com/user-attachments/assets/fc23f35d-ed42-4e92-abf5-d69696134ac2" />
@@ -20,7 +23,7 @@
                                                              
                                                      Performance (Risk) page 2
 
-<img width="1920" height="1140" alt="3- Performance  (Risk)" src="https://github.com/user-attachments/assets/dafe80cf-5aa4-493e-94e5-99286f059d51" />
+<img width="1659" height="933" alt="3- Performance  (Risk)" src="https://github.com/user-attachments/assets/b647693b-6325-45fc-a170-cbc77341eaab" />
                                                              
                                                      Calendar Date 
 
