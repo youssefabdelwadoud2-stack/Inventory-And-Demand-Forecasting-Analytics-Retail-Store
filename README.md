@@ -183,9 +183,21 @@ Power BI:
   - The Calendar table supports: (Year, Quarter, Month, Month Name, Day, Day Name, Week, Week Number)
 
                                                    Calendar Date 
- <img width="1920" height="1136" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/2cbe560b-3227-4ea3-a311-c93987eec19f" />
+<img width="1857" height="970" alt="Calender Date" src="https://github.com/user-attachments/assets/346b7077-9125-47f5-aa75-d9d34fbf7bd1" />
+
 -
 -
+- Create relationship with Calendar table and inventory data 
+-
+
+                                                   Data Modeling 
+<img width="1785" height="900" alt="Data Modeling " src="https://github.com/user-attachments/assets/68211d9d-0e44-4363-bab8-94d7efffb44f" />
+
+-
+-
+
+
+
 
   - This structure allowed for consistent time based analysis and filtering in the report.
 
