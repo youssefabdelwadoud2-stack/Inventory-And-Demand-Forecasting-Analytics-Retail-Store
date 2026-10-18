@@ -236,7 +236,8 @@ Page One:- Sales analysis covers performance by product, category, store, region
 
   
                                                       Overview page 
-<img width="1920" height="1143" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/6f1d89b3-4ae8-4721-b11e-86694dd6a2e7" />
+
+<img width="1654" height="926" alt="1-  Overview" src="https://github.com/user-attachments/assets/1eddc797-62fb-45ca-b241-a011f142da2d" />
 
 -
 -
@@ -257,13 +258,18 @@ Page Two:- Demand analysis
 
 
                                                  Product Inventory Demand page 2
-<img width="1920" height="1143" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/40e7a519-c0cb-4952-b3c1-ce830c913d80" />
+<img width="1647" height="920" alt="2- Product Inventory Demand" src="https://github.com/user-attachments/assets/c1057782-88c5-4934-b1b7-8c85cce3e277" />
+
+-
+-
 
                                                  Product Sales Demand page 2
-<img width="1920" height="1146" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/13e9cc94-ef9d-49eb-a723-68307de6ad56" />
+-<img width="1664" height="934" alt="2- Product Sales Demand" src="https://github.com/user-attachments/assets/dc39cacd-4572-4205-9b19-cfacbacf16ed" />
+
+-
 
                                                  Product Compatator Price page 2
-<img width="1920" height="1140" alt="Screenshot (225)" src="https://github.com/user-attachments/assets/0355bb5c-88d1-40c9-a615-79f4d23e6ef3" />
+<img width="1656" height="936" alt="2- product Compatator Price" src="https://github.com/user-attachments/assets/1385cb8b-e553-4d0a-b24f-666e27532eb4" />
 
 -
 -
@@ -284,10 +290,13 @@ Page Two:- Demand analysis
 
 
                                                  Performance (Normal) page 2
-<img width="1920" height="1143" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/b809735d-c0c5-4e4c-835b-7e25035c3a07" />
+<img width="1657" height="922" alt="3- Performance  (Normal)" src="https://github.com/user-attachments/assets/05bb3c94-d287-4fc6-9f35-088165aa829a" />
+
+-
+-
 
                                                  Performance (Risk) page 2
-<img width="1920" height="1140" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/2375cc1d-b552-497b-962d-cf5303fcfcc7" />
+<img width="1659" height="933" alt="3- Performance  (Risk)" src="https://github.com/user-attachments/assets/d3dac5e6-af89-4793-a548-309d4085885f" />
 
 
 
